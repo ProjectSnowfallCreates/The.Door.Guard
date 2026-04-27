@@ -50,7 +50,7 @@ it will be linked to.</p>
 
 <h2 id="report">Report</h2>
 <h3>Have a issue with the app or feel that somethingcould be added to the app? Report it here:</h3>
-<a href="https://projectsnowflakecreates.github.io/The_Door_Guard_Report_Website/">Report Website</a>
+<a href="https://projectsnowfallcreates.github.io/The.Door.Guard.Report.Website./">Report Website</a>
 
 <p>Note: Buttons are still being worked on.This app still needs features to be added and will be tested.</p>
 <p>A better appearance for the app will be added. I will also attempt to add animations for loading screens and other potential features Like log ins and more.</p>
