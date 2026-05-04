@@ -21,7 +21,7 @@
 </ul>
 <body>
 <p>This app along side the device will give you reassurance and the peace of mind that you home's
-being protected.They will allow you, your visting friend and visiting family safety within
+being protected. They will allow you, your visting friend and visiting family safety within
 your home. Any worries of intruders may disapear from your mind with this app and the device
 it will be linked to.</p>
 </body>
