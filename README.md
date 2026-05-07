@@ -48,7 +48,7 @@ it will be linked to.</p>
 <h3>Account Creation</h3>
 <h4>Create a new account and have a new alternate account.</h4>
 <h3>Location Swapping<h3>
- <h4>Allows the account to have access to owned Door Guards in different locations.
+<h4>Allows the account to have access to owned Door Guards in different locations.
   <h2 id="report">Report</h2>
 <h3>Have a issue with the app or feel that something could be added to the app? Report it here:</h3>
 <a href="https://projectsnowfallcreates.github.io/The.Door.Guard.Report.Website./">Report Website</a>
