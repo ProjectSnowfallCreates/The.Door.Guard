@@ -44,11 +44,12 @@ it will be linked to.</p>
 <h3>Access granting</h3>
 <h4>Grant access to trusted users and allow them to access button for your home on the app and device when in proximity of your home.</h4>
 <h3>Account Swapping</h3>
-<h4>Be able to swap to a diffrent account for a diffrent location.</h4>
+<h4>Be able to swap to a diffrent acoount/s and have a alternate account/s.</h4>
 <h3>Account Creation</h3>
-<h4>Create a new account For setting up the device in a new location.</h4>
-
-<h2 id="report">Report</h2>
+<h4>Create a new account and have a new alternate account.</h4>
+<h3>Location Swapping<h3>
+ <h4>Allows the account to have access to owned Door Guards in different locations.
+  <h2 id="report">Report</h2>
 <h3>Have a issue with the app or feel that something could be added to the app? Report it here:</h3>
 <a href="https://projectsnowfallcreates.github.io/The.Door.Guard.Report.Website./">Report Website</a>
 <h2>Things to note:</h2>
